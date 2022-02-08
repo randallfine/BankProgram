@@ -1,0 +1,15 @@
+C:\Users\Kimi\source\repos\BankProgram\BankProgram\obj\Debug\net6.0\BankProgram.csproj.AssemblyReference.cache
+C:\Users\Kimi\source\repos\BankProgram\BankProgram\obj\Debug\net6.0\BankProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimi\source\repos\BankProgram\BankProgram\obj\Debug\net6.0\BankProgram.AssemblyInfoInputs.cache
+C:\Users\Kimi\source\repos\BankProgram\BankProgram\obj\Debug\net6.0\BankProgram.AssemblyInfo.cs
+C:\Users\Kimi\source\repos\BankProgram\BankProgram\obj\Debug\net6.0\BankProgram.csproj.CoreCompileInputs.cache
+C:\Users\Kimi\source\repos\BankProgram\BankProgram\bin\Debug\net6.0\BankProgram.exe
+C:\Users\Kimi\source\repos\BankProgram\BankProgram\bin\Debug\net6.0\BankProgram.deps.json
+C:\Users\Kimi\source\repos\BankProgram\BankProgram\bin\Debug\net6.0\BankProgram.runtimeconfig.json
+C:\Users\Kimi\source\repos\BankProgram\BankProgram\bin\Debug\net6.0\BankProgram.dll
+C:\Users\Kimi\source\repos\BankProgram\BankProgram\bin\Debug\net6.0\ref\BankProgram.dll
+C:\Users\Kimi\source\repos\BankProgram\BankProgram\bin\Debug\net6.0\BankProgram.pdb
+C:\Users\Kimi\source\repos\BankProgram\BankProgram\obj\Debug\net6.0\BankProgram.dll
+C:\Users\Kimi\source\repos\BankProgram\BankProgram\obj\Debug\net6.0\ref\BankProgram.dll
+C:\Users\Kimi\source\repos\BankProgram\BankProgram\obj\Debug\net6.0\BankProgram.pdb
+C:\Users\Kimi\source\repos\BankProgram\BankProgram\obj\Debug\net6.0\BankProgram.genruntimeconfig.cache
